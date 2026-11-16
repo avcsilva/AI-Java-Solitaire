@@ -58,4 +58,4 @@
 - Criei a pasta `conversas/`:
   - `prompt_01.md` a `prompt_05.md`, com o texto exato de cada prompt;
   - este resumo.
-- Fiz o commit e o push para o repositório remoto. O push também enviou os commits anteriores, que ainda eram só locais.
+- Fiz o commit e o push para o repositório remoto. Os commits anteriores já estavam no remoto.
