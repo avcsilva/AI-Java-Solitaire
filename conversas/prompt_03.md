@@ -1,0 +1,1 @@
+Crie um README.md com instruções de compilação e execução e com uma tabela de rastreabilidade que associe cada requisito (RF01 a RF32, RNF01 a RNF05) às classes e métodos que o implementam. Não altere o código.
